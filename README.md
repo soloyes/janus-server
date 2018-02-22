@@ -1,2 +1,2 @@
-# projectJanus
-pilot project
+# janus-server
+server side
